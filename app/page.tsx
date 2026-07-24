@@ -138,8 +138,7 @@ export default function LoginPage() {
             Treasury
           </h1>
           <p className="mt-5 max-w-[30ch] text-[15px] leading-relaxed text-[var(--color-text-muted)]">
-            Custody, liquidity, and settlement for institutions that move
-            capital across the Pacific corridor.
+            Building the future for Business Payments.
           </p>
         </div>
 
