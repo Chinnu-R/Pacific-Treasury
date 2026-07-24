@@ -317,14 +317,6 @@ export default function LoginPage() {
                       <dd className="text-right">{request.user.address.city}</dd>
                     </div>
                   </dl>
-                  {!request.matched && (
-                    <p className="mt-2.5 text-[12px] leading-relaxed text-[var(--color-text-faint)]">
-                      JSONPlaceholder is a mock API with a fixed set of test
-                      users, so it won&apos;t recognize a real email — this
-                      record is its first sample user, shown to demonstrate a
-                      live fetch and response.
-                    </p>
-                  )}
                 </div>
               )}
             </div>
