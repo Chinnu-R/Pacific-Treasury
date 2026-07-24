@@ -138,7 +138,7 @@ export default function LoginPage() {
             Treasury
           </h1>
           <p className="mt-5 max-w-[30ch] text-[15px] leading-relaxed text-[var(--color-text-muted)]">
-            Building the future for Business Payments.
+            Building the future for <span className="text-[var(--color-blue)]">Business Payments.</span>
           </p>
         </div>
 
