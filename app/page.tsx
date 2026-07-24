@@ -266,7 +266,7 @@ export default function LoginPage() {
               {request.phase === "loading" && (
                 <div className="flex items-center gap-3 text-[13px] text-[var(--color-text-muted)]">
                   <span className="h-3.5 w-3.5 animate-spin rounded-full border-[1.5px] border-[var(--color-gold)] border-t-transparent" />
-                  Calling JSONPlaceholder API…
+                  Verifying the registered accounts
                 </div>
               )}
 
