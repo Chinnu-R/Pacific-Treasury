@@ -168,7 +168,7 @@ export default function LoginPage() {
 
           <div className="mb-9">
             <h2 className="font-[family-name:var(--font-display)] text-[28px] font-medium text-[var(--color-text)]">
-              Sign in
+              Welcome back, please sign in to your account
             </h2>
             <p className="mt-2 text-[14px] text-[var(--color-text-muted)]">
               Enter your credentials to access your treasury dashboard.
